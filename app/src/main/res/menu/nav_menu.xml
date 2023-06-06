@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Inicio"
+        android:id="@+id/inicio"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:title="Equipos"
+        android:id="@+id/inicio_equipos"
+        android:icon="@drawable/baseline_work_24"/>
+
+    <item android:title="Jugadores"
+        android:id="@+id/inicio_jugadores"
+        android:icon="@drawable/baseline_people_24"/>
+
+    <item android:title="Contacto"
+        android:id="@+id/inicio_contacto"
+        android:icon="@drawable/baseline_contactless_24" />
+
+    <item android:title="Modo Nocturno"
+        android:id="@+id/inicio_modonocturno"
+        android:icon="@drawable/baseline_mode_night_24" />
+
+    <item android:title="Cerrar sesión"
+        android:id="@+id/inicio_cerrarsesion"
+        android:icon="@drawable/baseline_logout_24" />
+
+</menu>
